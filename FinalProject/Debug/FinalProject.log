@@ -1,0 +1,14 @@
+﻿Build started 2019-01-26 11:40:44 AM.
+     1>Project "E:\Erfan\My Course\Graphic\Final\FinalProject\FinalProject\FinalProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt d3dUtility.cpp
+         d3dUtility.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Erfan\My Course\Graphic\Final\FinalProject\Debug\FinalProject.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86" /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x64" d3d9.lib winmm.lib d3dx9.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Erfan\My Course\Graphic\Final\FinalProject\Debug\FinalProject.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Erfan\My Course\Graphic\Final\FinalProject\Debug\FinalProject.lib" /MACHINE:X86 Debug\d3dUtility.obj
+         Debug\xfile.obj
+         FinalProject.vcxproj -> E:\Erfan\My Course\Graphic\Final\FinalProject\Debug\FinalProject.exe
+     1>Done Building Project "E:\Erfan\My Course\Graphic\Final\FinalProject\FinalProject\FinalProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.26

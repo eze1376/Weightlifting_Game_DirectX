@@ -1,0 +1,13 @@
+ Pan	0
+ Body   1
+ Head   2 
+ RBAZOO 3
+ RHAND  4 
+ LBAZOO 5
+ LHAND  6 
+ RLEG   7
+ RFOOT  8 
+ LLEG   9
+ LFOOT  10
+ CLUB   11
+ CAM    12
